@@ -7,18 +7,34 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+# Dependency directories
 node_modules
+
+# Build output
 dist
 dist-ssr
-*.local
+.vite
 
-# Editor directories and files
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor settings
 .vscode/*
 !.vscode/extensions.json
 .idea
-.DS_Store
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
 *.sw?
+
+# Env & secrets
+.env
+.env.*.local
+
+# Coverage
+coverage
+
+# Parcel cache
+.parcel-cache

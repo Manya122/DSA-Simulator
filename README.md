@@ -1,4 +1,4 @@
-# 🧠 DSA Simulator [License](https://img.shields.io/badge/License-MIT-blue.svg)
+# 🧠 DSA Simulator
 
 An **interactive visualizer** for popular **Data Structures** and **Algorithms**, built using **React.js**, that helps learners understand complex DSA concepts through **step-by-step animations, pseudocode, and real-time code snippets** in multiple programming languages.
 
@@ -43,9 +43,9 @@ An **interactive visualizer** for popular **Data Structures** and **Algorithms**
 
 ## 🚀 Demo
 
-👉 [View the Live Project and try it out](https://your-vercel-domain.vercel.app)
-This project is deployed using [Vercel](https://vercel.com/).  
-Every push to the main branch automatically triggers a deployment.
+👉 [View the Live Project and try it out](https://your-vercel-domain.vercel.app) <br>
+* This project is deployed using [Vercel](https://vercel.com/).  
+* Every push to the main branch automatically triggers a deployment.
 
 ---
 

@@ -43,7 +43,7 @@ An **interactive visualizer** for popular **Data Structures** and **Algorithms**
 
 ## 🚀 Demo
 
-👉 [View the Live Project and try it out](https://your-vercel-domain.vercel.app) <br>
+👉 [View the Live Project and try it out](https://dsa-simulator-nine.vercel.app/) <br>
 * This project is deployed using [Vercel](https://vercel.com/).  
 * Every push to the main branch automatically triggers a deployment.
 
